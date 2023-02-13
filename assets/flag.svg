@@ -1,0 +1,28 @@
+<svg id="Country_Flags_Asia_Japan" data-name="Country Flags/Asia/Japan" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Mask" width="28" height="20" rx="4" transform="translate(0 -0.118)" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#f0f0f0"/>
+    </linearGradient>
+    <filter id="Oval_43" x="1.333" y="5.333" width="9.333" height="8.667" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="US" transform="translate(0 4.118)">
+    <rect id="Mask-2" data-name="Mask" width="28" height="20" rx="4" transform="translate(0 -0.118)" fill="#fff"/>
+    <g id="US-2" data-name="US" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="Rectangle_511" data-name="Rectangle 511" d="M0,20V18.667H28V20Zm0-2.666V16H28v1.333Zm0-2.667V13.334H28v1.333ZM0,12V10.667H28V12ZM0,9.334V8H28V9.334ZM0,6.667V5.333H28V6.667ZM0,4V2.667H28V4ZM0,1.333V0H28V1.333Z" transform="translate(0 -0.118)" fill="#d02f44"/>
+      <rect id="Rectangle_511-2" data-name="Rectangle 511" width="12" height="9.333" transform="translate(0 -0.118)" fill="#46467f"/>
+      <g transform="matrix(1, 0, 0, 1, 0, -4.12)" filter="url(#Oval_43)">
+        <path id="Oval_43-2" data-name="Oval 43" d="M8,6a.667.667,0,1,1,.666.667A.666.666,0,0,1,8,6ZM5.333,6A.667.667,0,1,1,6,6.667.666.666,0,0,1,5.333,6ZM2.667,6a.667.667,0,1,1,.666.667A.666.666,0,0,1,2.667,6ZM0,6a.667.667,0,1,1,.666.667A.666.666,0,0,1,0,6ZM6.667,4.667a.667.667,0,1,1,.666.667A.666.666,0,0,1,6.667,4.667ZM4,4.667a.667.667,0,1,1,.666.667A.666.666,0,0,1,4,4.667Zm-2.667,0A.667.667,0,1,1,2,5.333.666.666,0,0,1,1.333,4.667ZM8,3.333A.667.667,0,1,1,8.667,4,.666.666,0,0,1,8,3.333Zm-2.667,0A.667.667,0,1,1,6,4,.666.666,0,0,1,5.333,3.333Zm-2.667,0A.667.667,0,1,1,3.333,4,.666.666,0,0,1,2.667,3.333ZM0,3.333A.667.667,0,1,1,.666,4,.666.666,0,0,1,0,3.333ZM6.667,2a.667.667,0,1,1,.666.667A.666.666,0,0,1,6.667,2ZM4,2a.667.667,0,1,1,.666.667A.666.666,0,0,1,4,2ZM1.333,2A.667.667,0,1,1,2,2.667.666.666,0,0,1,1.333,2ZM8,.666a.667.667,0,1,1,.666.667A.666.666,0,0,1,8,.666Zm-2.667,0A.667.667,0,1,1,6,1.333.666.666,0,0,1,5.333.666Zm-2.667,0a.667.667,0,1,1,.666.667A.666.666,0,0,1,2.667.666ZM0,.666a.667.667,0,1,1,.666.667A.666.666,0,0,1,0,.666Z" transform="translate(1.33 5.33)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>
