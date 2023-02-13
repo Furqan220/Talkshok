@@ -117,7 +117,7 @@ class _verficationpageState extends State<verficationpage> {
           CustomButton(
             title: 'Verify',
             bgcolor: Colors.blue,
-            color: Colors.white,
+            color: Colors.black,
           ),
         ]),
       ),
