@@ -6,6 +6,10 @@
 // import 'package:chatapp/Model/MessageModel.dart';
 // import 'package:emoji_picker/emoji_picker.dart';
 // import 'dart:html';
+// import 'dart:math';
+
+import 'dart:developer';
+
 import 'package:demo3/home.dart';
 import 'package:demo3/model.dart';
 import 'package:get/get.dart';
@@ -65,7 +69,8 @@ class _ChatPageState extends State<ChatPage> {
         status = 'connected';
       });
       socket!.on("message", (data) {
-        print("print" + data);
+        log(data.toString());
+        log(data.toString());
 
         setMessage(data["message"], 'itsNotME');
       });
